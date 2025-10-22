@@ -1,7 +1,7 @@
 function laggtill(){
 console.log("funka");
 let text = document.querySelector("#skriv");
-let text = document.createElement("li");
+let text = document.createElement("ul");
 
 text.textcontext=laggtill.value;
 document.ul.appendChild(text);
